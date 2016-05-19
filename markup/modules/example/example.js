@@ -5,7 +5,6 @@
 
 const $         = require('jquery');
 
-
 /**
  * Timer
  * @param duration {number}
@@ -46,6 +45,7 @@ Timer.prototype.getPastedTime = function () {
 };
 
 
+
 /**
  * @type {*[]}
  */
@@ -82,6 +82,7 @@ var questions = [
     }*/
 
 ];
+
 
 
 /**
